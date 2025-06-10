@@ -1,2 +1,2 @@
 ## Promotion Été 2024
-- Réduction : 20% (test A/B version)
+- Réduction : 20% (version A/B test)
